@@ -1,0 +1,10 @@
+/*.sdf
+/Saved
+/Intermediate
+/Content
+/Binaries
+/Plugins
+/*.sln
+/.vs
+/.vscode
+*.uploading.cfg
